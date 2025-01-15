@@ -1,0 +1,5 @@
+# Dataset List
+# Format: [Dataset Name] - [Description] - [URL]
+
+CelebA - Large-scale face attributes dataset with 10,000+ identities and rich annotations for attributes, landmarks, and bounding boxes. - http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
